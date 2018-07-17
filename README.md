@@ -1,2 +1,2 @@
 # Pool-Game
-final project
+final project- initial repository
